@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162613513972",
+    "project_id": "thermochem-cc5dc",
+    "storage_bucket": "thermochem-cc5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162613513972:android:f4db54c4f5c0d5c963d8a1",
+        "android_client_info": {
+          "package_name": "com.devxnow.thermochem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162613513972-qoolif1a48c6i9fl6cc4g9pogbv40ueg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_qNWN3SFPUHkJ0Ky2Vt3n4g0jokS8QAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162613513972-qoolif1a48c6i9fl6cc4g9pogbv40ueg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
