@@ -2,7 +2,7 @@
     <string name="app_name">Thermochem</string>
     <string-array name="temperature_units">
         <item>Kelvin (K)</item>
-        <item>Celsius (°C)</item>
-        <item>Fahrenheit (°F)</item>
+<!--        <item>Celsius (°C)</item>-->
+<!--        <item>Fahrenheit (°F)</item>-->
     </string-array>
 </resources>
